@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  wordpressmysqlenv:
+  - apiVersion: v1
+    appVersion: "1.1"
+    created: "2021-05-05T17:23:31.48847697+05:30"
+    description: this is chart create the wordpress with suitable wordpress
+    digest: af70e3f9373ec42e5c297da784c8129611a2919116f140ea94e9e4e42b6e65e3
+    name: wordpressmysqlenv
+    urls:
+    - wordpressmysqlenv-0.1.tgz
+    version: "0.1"
+generated: "2021-05-05T17:23:31.488048367+05:30"
